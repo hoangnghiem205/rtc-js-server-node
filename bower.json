@@ -1,0 +1,24 @@
+{
+  "name": "rtcjs-server-node",
+  "version": "0.0.1",
+  "authors": [
+    "Hoang Nghiem Minh"
+  ],
+  "description": "Calling server using nodejs, socket.io",
+  "main": "index.html",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
